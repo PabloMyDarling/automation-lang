@@ -6,5 +6,16 @@ automation-lang is a programming language that you can use for automation. It's 
 
 ## How to install automation-lang
 
-*Step 1:* Click the "<Code>" button, and click "Download ZIP"
-![Step 1](https://imgur.com/r5qiVCD)
+*Step 0:* Download (Python3)[https://www.python.org].
+
+*Step 1:* Click the "Code" button and then click "Download ZIP".
+
+*Step 2:* Extract the ZIP file and save ``compiler.pyw`` and ``requirements`` to a folder.
+
+*Step 3:* Go to the folder and open the Terminal there.
+
+*Step 4:* Type the following command:
+
+``pip3 install -r requirements`` or ``pip install -r requirements``
+
+After that, you can move on to How to use automation-lang!
