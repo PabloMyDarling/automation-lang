@@ -22,6 +22,8 @@ After that, you can move on to How to use automation-lang!
 
 ## How to use automation-lang
 This section will teach you how to actually program in this lang.  
+To make a script, you have to make a new file with the ".PAUTO" file extension,  
+Then you can start writing your scripts.  
 
 **Command 1:** open  
 This command will start a file. If you input the path to a file/folder, it'll open it. If you input the path to an executable, it'll execute the app.  
