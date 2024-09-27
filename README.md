@@ -1,10 +1,10 @@
-# automation-lang
+# pablo's automation
 A programming language you can use for automation of daily tasks.
 
-## About automation-lang
-automation-lang is a programming language that you can use for automation. It's a very simple tool based off of [Python3](https://www.python.org) and pyautogui. You use this by writing in a file and putting it through the compiler (compiler.pyw).
+## About pablo's automation
+pablo's automation is a programming language that you can use for automation. It's a very simple tool based off of [Python3](https://www.python.org) and pyautogui. You use this by writing in a file and putting it through the compiler (compiler.pyw).
 
-## How to install automation-lang
+## How to install pablo's automation
 
 *Step 0:* Download [Python3](https://www.python.org).  
 
@@ -20,7 +20,7 @@ automation-lang is a programming language that you can use for automation. It's 
 
 After that, you can move on to How to use automation-lang!  
 
-## How to use automation-lang
+## How to use pablo's automation
 This section will teach you how to actually program in this lang.  
 To make a script, you have to make a new file with the ".PAUTO" file extension,  
 Then you can start writing your scripts.  
